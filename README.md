@@ -1,4 +1,4 @@
-**The Ecommerce Sales Dashboard**    
+# The Ecommerce Sales Dashboard   
       
 It is an interactive Power BI project built to analyze and visualize key sales metrics of an online retail business.
 It provides a comprehensive view of sales performance across states, categories, customers, and payment methods, helping users uncover valuable business insights and make data-driven decisions.
