@@ -5,7 +5,7 @@ It provides a comprehensive view of sales performance across states, categories,
            
 **Key Features:-**
 **Dynamic KPIs**: Displays Total Sales, Quantity Sold, Total Profit, and Average Order Value. 
-
+    
 **Geographical Insights**: Visualizes sales distribution by state, identifying top-performing regions like Maharashtra and Madhya Pradesh.
 
 **Category Analysis**: Shows product performance with Clothing (63%) leading, followed by Electronics (21%) and Furniture (17%).    
